@@ -4,8 +4,8 @@ go 1.26.6
 
 require (
 	github.com/atotto/clipboard v0.1.4
-	github.com/aws/aws-sdk-go-v2 v1.43.7
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.18
+	github.com/aws/aws-sdk-go-v2 v1.47.0
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.20
 	github.com/charmbracelet/bubbles v1.0.0
 	github.com/charmbracelet/bubbletea v1.3.10
 	github.com/charmbracelet/lipgloss v1.1.0
@@ -14,7 +14,7 @@ require (
 	github.com/mattn/go-isatty v0.0.24
 	github.com/r9s-ai/open-next-router/onr-core v1.16.17
 	github.com/spf13/cobra v1.10.2
-	golang.org/x/net v0.58.0
+	golang.org/x/net v0.59.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -26,8 +26,8 @@ require (
 )
 
 require (
-	github.com/alicebob/miniredis/v2 v2.38.0
-	github.com/aws/smithy-go v1.27.8 // indirect
+	github.com/alicebob/miniredis/v2 v2.39.0
+	github.com/aws/smithy-go v1.28.1 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/bytedance/gopkg v0.1.3 // indirect
 	github.com/bytedance/sonic v1.15.0 // indirect
@@ -70,15 +70,15 @@ require (
 	github.com/redis/go-redis/v9 v9.22.0
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/sahilm/fuzzy v0.1.1 // indirect
-	github.com/shopspring/decimal v1.4.0 // indirect
+	github.com/shopspring/decimal v1.4.0
 	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.3.1 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	go.mongodb.org/mongo-driver/v2 v2.5.0 // indirect
 	golang.org/x/arch v0.22.0 // indirect
-	golang.org/x/crypto v0.55.0 // indirect
-	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/text v0.41.0 // indirect
+	golang.org/x/crypto v0.57.0 // indirect
+	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/text v0.42.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
